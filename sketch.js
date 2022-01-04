@@ -13,6 +13,9 @@ if (keyDown("RIGHT")){
 square.x = square.x + 3;
  background("purple");
 }
+if (keyDown("UP")){
+ background("yellow");
+}
 }
 
 
